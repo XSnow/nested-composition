@@ -1,8 +1,9 @@
-# Coherent Nested Composition #
+# Intersection Type w/ Application Mode #
 
-Supplementary material for the paper "Coherent Nested Composition with Disjoint
-Intersection Types".
+Try doing some work based on Bi Xuan's paper "Coherent Nested Composition with Disjoint
+Intersection Types" and Ningning's paper "Let Arguments Go First".
 
-- [coq/](./coq) for Coq formalization of the calculus
-- [impl/](./impl) for Haskell implementation of the calculus
-- [appendix.pdf](./appendix.pdf) for the appendix of the paper
+- [coq/](./coq) Start from Bi Xuan's Coq formalization of his calculus
+
+
+
